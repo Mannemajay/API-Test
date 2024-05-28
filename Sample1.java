@@ -7,6 +7,7 @@ int b=20;
 if(a<=b,a++)
 {
 System.out.println(a);
+System.out.println("exeguted");
 }
 
 }
